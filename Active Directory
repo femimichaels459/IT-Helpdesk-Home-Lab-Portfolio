@@ -6,8 +6,8 @@ Build a small enterprise-style domain environment to simulate IT Help Desk respo
 
 ## Tools Used
 - Windows Server 2022
-- Windows 10 VM
-- VMware / VirtualBox
+- Windows 11 VM
+- VirtualBox
 
 ## Setup Steps
 
@@ -20,11 +20,13 @@ Build a small enterprise-style domain environment to simulate IT Help Desk respo
 - IT-Users
 - HR-Users
 - Sales-Users
+- Finance-User
 
 ### 3. Created Users
 - Created test users:
-  - John IT (IT department)
-  - Mary HR (HR department)
+  - Mike IT (IT department)
+  - Esteban HR (HR department)
+  - Sarah Johnson(HR department)
 
 ### 4. Group Policy Setup
 - Password policy enforced
