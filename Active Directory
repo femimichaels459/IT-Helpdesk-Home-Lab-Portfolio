@@ -32,8 +32,5 @@ Build a small enterprise-style domain environment to simulate IT Help Desk respo
 - Password policy enforced
 - Account lockout policy configured
 
-## Screenshots
-(Add screenshots here)
-
 ## Troubleshooting
 - Fixed DNS resolution issues during domain join by setting preferred DNS to Domain Controller IP
