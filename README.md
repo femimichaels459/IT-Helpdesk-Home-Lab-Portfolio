@@ -33,3 +33,12 @@ femilab.local
 
 ### Domain Joined Computers
 ![Domain Computers](screenshots/domain-computers.png)
+
+### GPO 
+![Group policy configuration](screenshots/gpo.png)
+
+### DHCP
+![Dynamic host configuration protocol](screenshots/DHCP-setup.png)
+
+### DNS
+![Domain name server](screenshots/dns-setup.png)
