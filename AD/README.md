@@ -26,7 +26,7 @@ femilab.local
 ![Domain Overview](screenshots/domain-overview.png)
 
 ### OU Structure
-![OU Structure](screenshots/ou-structure.png)
+![OU Structure](ou-structure.png)
 
 ### Active Directory Users
 ![AD Users](screenshots/ad-users.png)
