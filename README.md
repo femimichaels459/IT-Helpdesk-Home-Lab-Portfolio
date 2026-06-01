@@ -22,9 +22,9 @@ The purpose of this portfolio is to demonstrate practical skills used in entry-l
 
 ### Active Directory Lab
 
-Created and configured an Active Directory environment to practice domain administration and user management.
+I Created and configured an Active Directory environment to practice domain administration and user management.
 
-Skills practiced:
+Fundamental Skills practiced:
 
 * Domain setup
 * Organizational Units (OU)
@@ -41,7 +41,7 @@ Folder:
 
 ### Windows Troubleshooting Lab
 
-Performed common troubleshooting tasks used by Help Desk professionals.
+I Performed common troubleshooting tasks used by Help Desk professionals.
 
 Commands practiced:
 
@@ -70,4 +70,4 @@ Folder:
 
 ## Goal
 
-Build practical experience through hands-on projects while developing skills relevant to IT Support and Help Desk positions.
+I Built practical experience through hands-on projects while developing skills relevant to IT Support and Help Desk positions.
