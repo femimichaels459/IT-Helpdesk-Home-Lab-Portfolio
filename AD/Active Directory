@@ -1,1 +1,35 @@
+# Active Directory Home Lab
 
+## Objective
+Build a small enterprise-style domain environment to simulate IT Help Desk responsibilities.
+
+## Tools Used
+- Windows Server 2022
+- Windows 11 VM
+- VirtualBox
+
+## Setup Steps
+
+### 1. Installed Active Directory Domain Services
+- Installed AD DS role via Server Manager
+- Promoted server to Domain Controller
+- Created domain: femilab.local
+
+### 2. Created Organizational Units (OUs)
+- IT-Users
+- HR-Users
+- Sales-Users
+- Finance-User
+
+### 3. Created Users
+- Created test users:
+  - Mike IT (IT department)
+  - Esteban HR (HR department)
+  - Sarah Johnson(HR department)
+
+### 4. Group Policy Setup
+- Password policy enforced
+- Account lockout policy configured
+
+## Troubleshooting
+- Fixed DNS resolution issues during domain join by setting preferred DNS to Domain Controller IP
