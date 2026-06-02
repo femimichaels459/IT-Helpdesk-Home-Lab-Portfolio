@@ -2,7 +2,7 @@
 
 ## Domain Overview
 
-![Domain Overview](screenshots/domain-overview.png)
+![Domain Overview](screenshots/Domain-overview.png)
 
 ## Users
 
