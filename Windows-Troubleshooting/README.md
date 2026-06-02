@@ -1,72 +1,39 @@
 # Windows Troubleshooting Lab
 
 ## Overview
-Performed common Windows troubleshooting and networking tasks in a home lab environment to simulate real-world IT Help Desk responsibilities.
+I Performed real-world IT Help Desk troubleshooting tasks in a Windows environment.
 
-## Skills Demonstrated
-- Network troubleshooting
-- DNS resolution
-- Connectivity testing
-- Active Directory administration
-- Group Policy updates
-- Windows system repair
-- Process management
-- Command-line troubleshooting
-
----
-
-## Commands Performed
+## Commands Used
 
 ### ipconfig /all
-Displays detailed network configuration information.
+Checks network configuration.
 
-![ipconfig](screenshots/ipconfig-all.png)
+![ipconfig](screenshots/ipconfig.png)
 
 ---
 
 ### ping
-Tested network connectivity.
+Tests connectivity.
 
-![ping](screenshots/ping-test.png)
+![ping](screenshots/ping.png)
 
 ---
 
 ### nslookup
-Verified DNS name resolution.
+DNS troubleshooting.
 
 ![nslookup](screenshots/nslookup.png)
 
 ---
 
-### tracert
-Analyzed packet routing path.
-
-![tracert](screenshots/tracert.png)
-
----
-
 ### gpupdate /force
-Updated Group Policy configurations.
+Updates Group Policy settings.
 
 ![gpupdate](screenshots/gpupdate.png)
 
 ---
 
-### netstat -an
-Reviewed active network connections and ports.
+### tracert
+Shows network route.
 
-![netstat](screenshots/netstat.png)
-
----
-
-### taskkill
-Terminated a running process using command line.
-
-![taskkill](screenshots/taskkill.png)
-
----
-
-### sfc /scannow
-Performed Windows system file integrity scan.
-
-![sfc](screenshots/sfc-scannow.png)
+![tracert](screenshots/tracert.png)
